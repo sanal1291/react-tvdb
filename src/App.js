@@ -11,7 +11,7 @@ import { GlobalStyle } from './GlobalStyle';
 
 
 const App = () => (
-  <Router>
+  <Router basename="/react-tvdb">
     <Header />
     <Routes>
       <Route path='/' element={<Home />} />
