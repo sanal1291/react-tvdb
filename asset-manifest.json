@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/react-tvdb/static/js/main.05cb60b5.chunk.js",
-    "main.js.map": "/react-tvdb/static/js/main.05cb60b5.chunk.js.map",
+    "main.js": "/react-tvdb/static/js/main.42a40255.chunk.js",
+    "main.js.map": "/react-tvdb/static/js/main.42a40255.chunk.js.map",
     "runtime-main.js": "/react-tvdb/static/js/runtime-main.2ae4e5a9.js",
     "runtime-main.js.map": "/react-tvdb/static/js/runtime-main.2ae4e5a9.js.map",
     "static/js/2.d44149eb.chunk.js": "/react-tvdb/static/js/2.d44149eb.chunk.js",
@@ -16,6 +16,6 @@
   "entrypoints": [
     "static/js/runtime-main.2ae4e5a9.js",
     "static/js/2.d44149eb.chunk.js",
-    "static/js/main.05cb60b5.chunk.js"
+    "static/js/main.42a40255.chunk.js"
   ]
 }
